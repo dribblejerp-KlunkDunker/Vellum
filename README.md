@@ -1,2 +1,1 @@
-# Vellum
-World Atlas &amp; Floor Plan Studio — lore-to-layout mapper, 2D SVG + 3D isometric viewer, and GM playtest dock
+# Vellum\n\nWorld Atlas & Floor Plan Studio — lore-to-layout mapper, 2D SVG + 3D isometric viewer, and GM playtest dock.\n\n## Quick Start\nOpen `app.html` directly in any modern browser, or run `python -m http.server 8000` and visit `http://localhost:8000/app.html`.\n
