@@ -1,6 +1,10 @@
 # Vellum
 
+[![Launch Vellum](https://img.shields.io/badge/Launch_Vellum-Open_Web_App-c83e2b?style=for-the-badge)](https://dribblejerp-klunkdunker.github.io/Vellum/)
+
 **World Atlas & Floor Plan Studio** — turn written lore into readable 2D architectural floor plans, live 3D isometric views, and interactive GM/playtest sessions with zero build steps.
+
+*(To enable the live link above, go to **Settings → Pages** in this repository and set Source to **Deploy from a branch (`main`)**.)*
 
 ---
 
