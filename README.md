@@ -1,10 +1,8 @@
 # Vellum
 
-[![Launch Vellum](https://img.shields.io/badge/Launch_Vellum-Open_Web_App-c83e2b?style=for-the-badge)](https://dribblejerp-klunkdunker.github.io/Vellum/)
+[![Launch Vellum](https://img.shields.io/badge/Launch_Vellum-Open_Web_App-c83e2b?style=for-the-badge)](https://dribblejerp-klunkdunker.github.io/Vellum/app.html)
 
 **World Atlas & Floor Plan Studio** — turn written lore into readable 2D architectural floor plans, live 3D isometric views, and interactive GM/playtest sessions with zero build steps.
-
-*(To enable the live link above, go to **Settings → Pages** in this repository and set Source to **Deploy from a branch (`main`)**.)*
 
 ---
 
@@ -28,22 +26,22 @@
 ## Screenshots & Demos
 
 ### Live Workflow Demo
-![Vellum Workflow Demo](docs/shots/vellum_demo.gif)
+![Vellum Workflow Demo](vellum_demo.gif)
 
 ### Multi-Floor 3D Dungeon (3 Floors, Bridges & Held Heart)
-![Multi-Floor 3D Dungeon](docs/shots/multi_floor_3d_dungeon.gif)
+![Multi-Floor 3D Dungeon](multi_floor_3d_dungeon.gif)
 
 ### Full Studio (`app.html`)
-![Vellum Studio](docs/shots/final_app.png)
+![Vellum Studio](final_app.png)
 
 ### Ash Paper Theme
-![Ash Paper Theme](docs/shots/theme_ash_paper.png)
+![Ash Paper Theme](theme_ash_paper.png)
 
 ### GM Playtest Dock & Line of Sight (`gm_preview.html`)
-![GM Playtest Dock](docs/shots/gm_preview.png)
+![GM Playtest Dock](gm_preview.png)
 
 ### 2D Drag-and-Drop + Live 3D Isometric View (`dungeon_3d_preview.html`)
-![2D and 3D Dungeon View](docs/shots/dungeon_3d_preview.png)
+![2D and 3D Dungeon View](dungeon_3d_preview.png)
 
 ---
 
