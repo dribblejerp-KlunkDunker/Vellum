@@ -8,7 +8,7 @@
 
 - **Lore-to-Layout Parser**: Paste markdown or bulleted zone lists to auto-generate a numbered floor plan, zone key, and held-heart chamber.
 - **2D SVG Architect's Renderer**: Crisp 1000 px sheets with hatch/pattern fills (`rock`, `ash`, `water`, `grass`, `snow`, `cinder`, `reed`, `spore`, `deck`, `iron`, `ice`), scale bar, north arrow, animated shortcut routes, and an auto-built legend.
-- **Live 3D Isometric View**: Real-time 3D extrusion of rooms, tunnels, staircases, bridges, and held-heart chambers.
+- **Live 3D Isometric View**: Real-time 3D extrusion of rooms, tunnels, staircases, bridges, and held-heart chambers across multiple floors.
 - **Drag-and-Drop Editor**: Place and reposition rooms, tunnels, staircases, bridges, and markers with snap-to-grid, undo/redo, and JSON export.
 - **GM & Playtest Dock**:
   - **Fog of War** (click rooms to uncover)
@@ -21,10 +21,19 @@
 
 ---
 
-## Screenshots
+## Screenshots & Demos
+
+### Live Workflow Demo
+![Vellum Workflow Demo](docs/shots/vellum_demo.gif)
+
+### Multi-Floor 3D Dungeon (3 Floors, Bridges & Held Heart)
+![Multi-Floor 3D Dungeon](docs/shots/multi_floor_3d_dungeon.gif)
 
 ### Full Studio (`app.html`)
 ![Vellum Studio](docs/shots/final_app.png)
+
+### Ash Paper Theme
+![Ash Paper Theme](docs/shots/theme_ash_paper.png)
 
 ### GM Playtest Dock & Line of Sight (`gm_preview.html`)
 ![GM Playtest Dock](docs/shots/gm_preview.png)
